@@ -1,6 +1,6 @@
 <img src="https://github.com/RyanChang25/RyanChang25/assets/56273820/0c2e7a07-5719-4f72-a0d5-0a46b294c96b" width="1048">
 
-# :wave: I'm Ryan
+# :wave: I'm Ryan!
 
 > 22, Gameplay Developer & Engineer, and B.IT (Hons) Game Dev & Entrepreneurship at Ontario Tech University. 
 
