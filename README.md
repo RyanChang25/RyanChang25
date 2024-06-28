@@ -2,7 +2,7 @@
 
 # :wave: I'm Ryan!
 
-> 22, Gameplay Developer & Engineer, and B.IT (Hons) Game Dev & Entrepreneurship at Ontario Tech University. 
+> 22, Game Developer & Engineer, and B.IT (Hons) Game Dev & Entrepreneurship at Ontario Tech University. 
 
 ## About Me
 
