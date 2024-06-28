@@ -21,4 +21,4 @@ Hey there! I'm Ryan, and I've been immersed in the world of game development sin
 [![DevForum](https://img.shields.io/badge/DevForum-00a0ff?logo=robloxstudio&logoColor=white&style=for-the-badge)](https://devforum.roblox.com/u/ryanisawesome25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-chang-7713221a2/)
 
-You can contact me by click any of the above badges and contacting me from there. Email is the fastest response times.
+You can contact me by click any of the above badges and contacting me from there. Have a good day!
