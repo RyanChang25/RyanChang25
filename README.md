@@ -2,7 +2,7 @@
 
 # :wave: I'm Ryan!
 
-> 22, Game Developer & Engineer. 
+> 23, Gameplay Engineer, and I have a serious mango addiction 🥭
 
 ## About Me
 
