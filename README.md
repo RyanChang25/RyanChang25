@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi, I'm Ryan! With nearly a decade in game development, I’ve worked as a gameplay engineer and gameplay programmer, specializing in creating immersive experiences through innovative gameplay mechanics. I’ve collaborated with diverse teams, contributing to both backend and frontend features for various brands and clients. I’m passionate about learning new technologies and always eager to connect with other professionals in the industry who share the same drive for creative problem-solving. My most notable technical skills are as follows:
+Hi, I'm Ryan! With nearly a decade in game development, I’ve worked as a gameplay engineer and gameplay programmer, specializing in creating immersive experiences through innovative gameplay mechanics. I’ve collaborated with diverse teams, contributing to both backend and frontend features for various brands and clients. I’m passionate about learning new technologies and always eager to connect with other professionals in the industry who share the same drive for creating meaningful games. My most notable technical skills are as follows:
 
 - Proficient in Roblox Luau, demonstrating expertise through diverse game projects with 6+ years of experience.
 - Experienced in using libraries such as Roact, Knit, and a range of RbxUtil Modules.
