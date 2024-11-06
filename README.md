@@ -8,7 +8,7 @@
 
 Hi, I'm Ryan! With nearly a decade in game development, I’ve worked as a gameplay engineer and programmer, crafting immersive experiences with a focus on the Roblox platform. I’ve had the privilege of collaborating with major clients like Universal Pictures, Nickelodeon, and NASCAR, contributing to both backend and frontend features. I'm passionate about learning new technologies and connecting with other professionals in the industry who share a drive for creating meaningful, impactful games. My most notable technical skills are as follows:
 
-- Proficient in Roblox Luau, demonstrating expertise through diverse game projects with 6+ years of experience.
+- Proficient in Roblox Luau, demonstrating expertise through diverse game projects with 8+ years of experience.
 - Experienced in using libraries such as Roact, Knit, and a range of RbxUtil Modules.
 - Knowledgeable in usage of third-party SDK’s such as GameAnalytics and PlayFab.
 - Plugin creation proficiency from previous work experience *(Eg. CutsceneManager, and WhiteBox Designer)*.
