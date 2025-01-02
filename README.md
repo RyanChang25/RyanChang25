@@ -17,7 +17,7 @@ Over the past decade in game development, I’ve had the privilege of building i
 - **Experience with third-party SDKs** like **GameAnalytics** and **PlayFab**.
 - **Plugin creation proficiency** from previous work experience *(e.g., **CutsceneManager** and **WhiteBox Designer**)*.
 - **Competent in tools and programs** including:
-  - **Moonwave**, **TestEZ**, **GitHub**, **Bitbucket**, **VS Code**, **Rojo**, **Confluence**, **Jira**. 
+  - **GitHub**, **Bitbucket**, **VS Code**, **Rojo**, **Confluence**, **Jira**, and **Clickup**.
 
 ## Contact
 
