@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi, I'm Ryan! In my decade of experience in game development, I’ve had the privilege to help engineer many immersive experiences on the Roblox platform, specifically for official IP's such as Universal Pictures, Paramount, DreamWorks, etc. as a Gameplay Engineer. I'm passionate about exploring new technologies and connecting with industry professionals who share a commitment to crafting impactful games. My most notable technical skills are as follows:
+Hi, I'm Ryan! Over the past decade in game development, I’ve had the privilege of building immersive experiences on the Roblox platform, collaborating with major IPs such as Universal Pictures, Paramount, and DreamWorks, primarily as a Gameplay Engineer. I’m passionate about leveraging new technologies and engaging with industry professionals who are equally dedicated to crafting impactful games. My most notable technical skills include:
 
 - Proficient in Roblox Luau, demonstrating expertise through diverse game projects with 8+ years of experience.
 - Skilled in using libraries and frameworks such as Roact, Knit, and a range of Rbx Util modules.
