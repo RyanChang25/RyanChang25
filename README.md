@@ -15,7 +15,8 @@ Over the past decade in game development, I’ve had the privilege of building i
 - **Proficient in Roblox Luau**, demonstrating expertise through diverse game projects with **8+ years of experience**.
 - **Skilled in libraries and frameworks** such as **Roact**, **Knit**, and a range of **Rbx Util modules**.
 - **Experience with third-party SDKs** like **GameAnalytics** and **PlayFab**.
-- **Plugin creation proficiency** from previous work experience *(e.g., **CutsceneManager** and **WhiteBox Designer**)*.
+- **Plugin creation proficiency** from previous work experience:
+  - **CutsceneManager** and **WhiteBox Designer**.
 - **Competent in tools and programs** including:
   - **GitHub**, **Bitbucket**, **VS Code**, **Rojo**, **Confluence**, **Jira**, and **Clickup**.
 
