@@ -6,13 +6,19 @@
 
 ## About Me
 
-Hi, I'm Ryan! Over the past decade in game development, I’ve had the privilege of building immersive experiences on the Roblox platform, collaborating with major IPs such as **Universal Pictures**, **Paramount**, and **DreamWorks** (etc.) primarily as a Gameplay Engineer. I’m passionate about leveraging new technologies and engaging with industry professionals who are equally dedicated to crafting impactful games. My most notable technical skills include:
+Hi, I'm Ryan! 
 
-- Proficient in Roblox Luau, demonstrating expertise through diverse game projects with 8+ years of experience.
-- Skilled in using libraries and frameworks such as Roact, Knit, and a range of Rbx Util modules.
-- Knowledgeable in usage of third-party SDK’s such as GameAnalytics and PlayFab.
-- Plugin creation proficiency from previous work experience *(Eg. CutsceneManager, and WhiteBox Designer)*.
-- Competent in tools and programs such as Moonwave, TestEZ, GitHub, Bitbucket, VS Code, Rojo, Confluence, and Jira.
+Over the past decade in game development, I’ve had the privilege of building immersive experiences on the **Roblox platform**, collaborating with major IPs such as **Universal Pictures**, **Paramount**, and **DreamWorks** (etc.), primarily as a **Gameplay Engineer**. I’m passionate about leveraging new technologies and engaging with industry professionals who are equally dedicated to crafting impactful games. 
+
+### My Most Notable Technical Skills:
+
+- **Proficient in Roblox Luau**, demonstrating expertise through diverse game projects with **8+ years of experience**.
+- **Skilled in libraries and frameworks** such as **Roact**, **Knit**, and a range of **Rbx Util modules**.
+- **Experience with third-party SDKs** like **GameAnalytics** and **PlayFab**.
+- **Plugin creation proficiency** from previous work experience *(e.g., **CutsceneManager** and **WhiteBox Designer**)*.
+- **Competent in tools and programs** including:
+  - **Moonwave**, **TestEZ**, **GitHub**, **Bitbucket**
+  - **VS Code**, **Rojo**, **Confluence**, **Jira**. 
 
 ## Contact
 
