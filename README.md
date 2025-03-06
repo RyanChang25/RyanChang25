@@ -23,6 +23,5 @@ Over the past decade in game development, I’ve had the privilege of building i
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/Ryanisawesome25)
 [![YouTube](https://img.shields.io/badge/youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC2FwZHMBgVPL4-abTm8qN5g)
 [![DevForum](https://img.shields.io/badge/DevForum-00a0ff?logo=robloxstudio&logoColor=white&style=for-the-badge)](https://devforum.roblox.com/u/ryanisawesome25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-chang-7713221a2/)
 
 You can contact me by click any of the above badges and contacting me from there. Have a good day!
