@@ -2,11 +2,11 @@
 
 # :wave: I'm Ryan!
 
-> 23, Sr. Gameplay Engineer @ Sawhorse LA, and a serious mango addict 🥭
+> 23, Software Engineer @ Exclusible, and a serious mango addict 🥭
 
 ## About Me
 
-Over the past decade in game development, I’ve had the privilege of building immersive experiences on the **Roblox platform**, collaborating with major IPs such as **Universal Pictures**, **Paramount**, and **DreamWorks** (etc.), primarily as a **Gameplay Engineer**. I’m passionate about leveraging new technologies and engaging with industry professionals who are dedicated to crafting impactful games. 
+Over the past decade in game development, I’ve had the privilege of building immersive experiences on the **Roblox platform**, collaborating with major IPs such as **Universal Pictures**, **Paramount**, and **DreamWorks** (etc.), primarily as a **Software Engineer**. I’m passionate about leveraging new technologies and engaging with industry professionals who are dedicated to crafting impactful games. 
 
 ### My Most Notable Technical Skills:
 
