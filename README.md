@@ -10,7 +10,7 @@ Over the past decade in game development, I’ve had the privilege of building i
 
 ### My Most Notable Technical Skills:
 
-- **Proficient in Roblox Luau**, demonstrating expertise through diverse game projects with **10+ years of experience**.
+- **Proficient in Luau (And Lua)**, demonstrating expertise through diverse game projects with **10+ years of experience**.
 - **Skilled in libraries and frameworks** such as **Roact**, **Knit**, and a range of **Rbx Util modules**.
 - **Plugin creation proficiency** from previous work experience:
   - **CutsceneManager** and **WhiteBox Designer**.
