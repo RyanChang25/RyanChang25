@@ -16,7 +16,6 @@ Over the past decade in game development, I’ve had the privilege of building i
   - **CutsceneManager** and **WhiteBox Designer**.
 - **Engineered modular packages** from previous work experience:
   - **Raycast-based Vehicle Suspension System** and a **Popup Integration Package**.
-- **Competent in tools and programs** including:
 - **Experience with third-party SDKs** like **GameAnalytics** and **PlayFab**.
   - **GitHub**, **Bitbucket**, **VS Code**, **Rojo**, **Confluence**, **Jira**, and **Clickup**.
 
