@@ -11,7 +11,7 @@ Over the past decade in game development, I’ve had the privilege of building i
 ### My Most Notable Technical Skills:
 
 - **Proficient in Luau (And Lua)**, demonstrating expertise through diverse game projects with **10+ years of experience**.
-- **Skilled in libraries and frameworks** such as **React (Luau)**, **Knit**, and a range of **Rbx Util modules**.
+- **Skilled in libraries and frameworks** such as **React (Luau)**, **Order**, **Knit**, and a range of **Rbx Util modules**.
 - **Experience with third-party SDKs** like **GameAnalytics** and **PlayFab**.
 - **Plugin creation proficiency** from previous work experience:
   - **CutsceneManager** and **WhiteBox Designer**.
