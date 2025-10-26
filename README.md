@@ -6,7 +6,7 @@
 
 ## About Me
 
-Over the past decade in game development, I’ve had the privilege of building immersive experiences internally with **Roblox**, collaborating with major IPs such as **Ubisoft**, **Universal Pictures**, and **DreamWorks** (etc.), primarily as a **Gameplay Engineer**. I’m passionate about leveraging new technologies and engaging with industry professionals who are dedicated to crafting impactful games. 
+With a decade of experience in game development, I’ve had the privilege of building immersive experiences internally with **Roblox**, collaborating with major IPs such as **Ubisoft**, **Universal Pictures**, and **DreamWorks** (etc.), primarily as a **Gameplay Engineer**. I’m passionate about leveraging new technologies and engaging with industry professionals who are dedicated to crafting impactful games. 
 
 ### My Most Notable Technical Skills:
 
